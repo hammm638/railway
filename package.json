@@ -1,0 +1,14 @@
+{
+  "name": "profile-bot",
+  "version": "1.0.0",
+  "description": "Bot generate foto profil user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "sharp": "^0.33.0",
+    "moment-timezone": "^0.5.43"
+  }
+}
